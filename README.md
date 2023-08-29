@@ -1,3 +1,6 @@
+# This is an expiramental branch of John Omernik's Integrations to test cross platform compatibility on Mac with Apple silicone and Unbuntu Linux installations. 
+
+
 # jupyter_integration_base - Base Package
 -----
 The Jupyter Integrations are a system of tools and base classes that allows folks to make connections to multiple data sources and use that data in a consistent way. 
